@@ -3,4 +3,6 @@ class puppy
 
   def initialize(name, breed, age)
 
+  end
+
 end
